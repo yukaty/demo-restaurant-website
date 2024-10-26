@@ -1,0 +1,1 @@
+This is a simple and responsive website for an Italian restaurant, built using HTML, CSS, and Bootstrap.
